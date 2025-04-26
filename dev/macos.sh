@@ -12,3 +12,5 @@ test -d .venv ||
   . .venv/bin/activate
 
 python -m pip install -r dev/requirements.txt
+
+git config core.hooksPath .githooks
