@@ -10,6 +10,3 @@ test -d .venv ||
 
 (echo "$PATH" | grep ".venv/bin") ||
   . .venv/bin/activate
-
-which nb-clean ||
-  python3 -m pip install nb-clean
