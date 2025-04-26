@@ -32,6 +32,7 @@ parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.7
 prompt_toolkit==3.0.51
+protobuf==6.30.2
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -44,6 +45,7 @@ regex==2024.11.6
 requests==2.32.3
 rpds-py==0.24.0
 safetensors==0.5.3
+sentencepiece==0.2.0
 six==1.17.0
 stack-data==0.6.3
 tokenizers==0.21.1
