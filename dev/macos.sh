@@ -10,3 +10,5 @@ test -d .venv ||
 
 (echo "$PATH" | grep ".venv/bin") ||
   . .venv/bin/activate
+
+python -m pip install -r dev/requirements.txt
